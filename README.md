@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<img src="./2b258de6822cca79.gif" alt="show" />
+<img src="./2b258de6822cca79.gif" alt="Capoo" />
+<img src="./8d4526aadd642eb.gif" alt="Capoo" />
+
 
 ## 📫 How to reach me: ...
 - Tencent QQ: 3206275107

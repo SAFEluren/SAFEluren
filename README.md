@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-<img src="./2b258de6822cca79.gif" alt="Capoo" />
-<img src="./8d4526aadd642eb.gif" alt="Capoo" />
-
+<div>
+  <img src="./2b258de6822cca79.gif" width=25% height=25% alt="Capoo" />
+<img src="./8d4526aadd642eb.gif" width=25% height=25% alt="Capoo" />
+</div>
 
 ## 📫 How to reach me: ...
 - Tencent QQ: 3206275107

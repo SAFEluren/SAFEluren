@@ -11,3 +11,5 @@
 - Discord: SAFEluren#6359
 - Steam friend code: 1178999627 [Link](https://steamcommunity.com/id/SAFEluren/)
 - Origin UserName: SAFEluren
+
+I'm using Translate software for English
